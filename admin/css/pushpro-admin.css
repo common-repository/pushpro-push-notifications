@@ -1,0 +1,16 @@
+#pushpro-pager {
+    padding: 10px;
+    float: right;
+}
+.pushpro-links {
+    margin-bottom: 10px;
+}
+.pushpro-links .button {
+    margin-right: 5px;
+}
+#pushpro-logo {
+    display:block;
+    padding-left: 20px;
+    max-width: 90%;
+    height: auto;
+}
